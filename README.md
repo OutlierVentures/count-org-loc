@@ -12,6 +12,8 @@
 script/count [ORGANISATION_NAME]
 ```
 
+This will not count forked repos.
+
 For a single repo (e.g. counting the Indy repos under Hyperledger):
 
 ```
